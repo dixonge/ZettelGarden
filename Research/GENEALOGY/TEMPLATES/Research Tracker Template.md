@@ -1,0 +1,3 @@
+# Research Tracker Template
+
+This is a list of basic information I like to collect to track each genealogy research session. Start a new note with the date and the ancestor researched in the title of the note. Then copy and paste these headers into the note for each new session so you can keep track of the information you gathered, the source it came from and what you need to do next. (No need to copy these instructions into the note.) —Janine **Date**:**Surname(s) researched**:**Question asked/information sought**:**Source(s) consulted**:**Findings**:**Question answered?Next steps**:**Links (include as many as possible!)**:

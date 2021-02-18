@@ -1,0 +1,1 @@
+# Dixon Mill Bridge June 11, 1933Photo courtesy of Judy ScottNotice that flagpoles stored in the rafters for area parades

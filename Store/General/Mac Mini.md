@@ -1,0 +1,3 @@
+# Mac Mini
+
+Status: DONE

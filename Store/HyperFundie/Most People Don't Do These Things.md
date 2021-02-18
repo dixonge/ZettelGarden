@@ -1,0 +1,21 @@
+# Most People Don't Do These Things
+
+- Try to break their arm to get out of school
+- Drop matches in hay behind mayor's house
+- Run into neighbor's yard naked on a dare
+- Have sex in college library basement
+- Let a girl take your naked photo in a car
+- Use 'coitus interruptus' as a birth control method
+- Get married at 20
+- Parent three children by 27
+- Attempt to break into an ATM
+- Solicit a prostitute without actual cash
+- Steal gas
+- Leave a loaded rifle (purchased with a hot check) in the front seat when stopped by the police
+- Leave your family for weeks without telling anyone where you are
+- Get held at gunpoint by drug dealers during a home invasion
+- Give your three children up for adoption
+- Sell drugs to your ex-wife
+- Steal audio equipment from a church
+- Attempt to have yourself committed to a mental institution
+- Sleep in a Salvation Army shelter

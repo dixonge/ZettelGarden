@@ -1,0 +1,8 @@
+﻿Name|Items|Size (GB)
+-|-|-|
+Facebook archive|3629|2
+Glenn's iPhone|174|0.7
+Flickr Download|415|1
+PicturesNew|96182|300
+Mylio|127573|86
+,|

@@ -1,0 +1,7 @@
+# Fun with exiftool
+
+So I'm moving some files from one Flickr account to another, and since there is no existing tool to do this directly, I have to download them and re-upload them. Unfortunately all the work I did adding titles and descriptions will be lost if I simply download the albums using Flickr's download button, because they don't write that data to the exif or iptc metadata in the image file.
+
+So - I use [Flickr Downloadr](https://flickrdownloadr.com) to handle the downloads, but it copies the title and description into a separate json file. I got to spend several hours beating my head against a brick wall until I finally found the correct syntax and a bash for-loop to extract this metadata from the json files and insert it into the image files. Now when I upload them, Flickr sees the metadata in the correct fields and auto-populates the Title and Description and all is well in the world.
+
+[Code gist is here](https://gist.github.com/dixonge/65d6ad3fab01d34773ac9e9f58f08bdf)

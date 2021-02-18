@@ -1,0 +1,7 @@
+# CONDOR/ Nazca Condor (Big Hummingbird)
+
+#: 3
+BEST ALTITUDE: +/- 800
+BEST DATE: 2010
+GOOGLE EARTH COORDINATES: 14 41’50.09″S 75 7’34.59″W
+TOWN: Nazca

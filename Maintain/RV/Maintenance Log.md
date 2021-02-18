@@ -1,0 +1,5 @@
+﻿Title|Item|Date|Mileage|Servicer|Location|Cost|Notes
+-|-|-|-|-|-|-|-|
+Oil + Filter Change|[[Oil + Filter Change]]|"Sep 21, 2020"|73740|Jiffy Lube|"Flagstaff, AZ"|136.21,
+,|,,|,,
+,|,,|,,

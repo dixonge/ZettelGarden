@@ -1,0 +1,3 @@
+# Make decision on Flickr Pro vs anywhere else...
+
+Status: Done

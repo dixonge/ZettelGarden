@@ -1,0 +1,8 @@
+﻿Name|Assign|Status
+-|-|-|
+Card 1|,
+Card 2|,
+Card 3|,
+Duplicate and edit down for original draft of The Perfect Couple story|,
+Hyper-Fundie|,
+Finish consolidating Spike Sessions into Preacher's Kid|,

@@ -1,0 +1,11 @@
+# Another Intro
+
+It is unlikely I will ever have any sort of communication with my two sons, not to mention a relationship. If I tried to reach out, it would probably cause more anger and resentment than what is already present, making things worse, if that's possible. One wants nothing to do with me, the other just doesn't care if I exist or not. 
+
+I can't say that I blame them. They've heard some interesting stories about me, fueled by their grandmother's fear and suspicions. Most of them weren't true, at least not at first. But even without those stories, the fact is that I signed two sets of papers at the same time. The first set finalized my divorce from their mother. The second set voluntarily relinquished my parental rights, allowing their grandparents to adopt them. 
+
+My mental and financial state at the time won't buy me any sympathy. The fact that their mother did the same doesn't help. The fact that their grandmother/adoptive mother stopped my visitations by informing me that David, my oldest, was seeing a child psychologist who thought it best that the visitations cease, that probably won't help me either.
+
+I have often beat myself up for not having tried harder to maintain contact, to do 'whatever it took' to stay in touch and stay a part of their lives. I lived far enough away that it was a five-hour round trip on top of any visitation time. I barely had enough money for gas to get to work each week, but I am quite certain I could have visited at least monthly, or maybe bi-monthly. If I had really tried. 
+
+But I did not. Contact was more and more infrequent. My parents stayed in touch and sent regular correspondence, and they received occasional photos in return. But too often even this communication would turn toxic. I would talk to DeeAnne, I would mention something about her to my parents, Mom would talk to Judy on the phone and mention it, then Judy would bring it up to DeeAnne, who would then be upset with me for it. Over time the contact between the families slowed to a trickle. By the time the kids were out of high school, there was a two year silence.

@@ -1,0 +1,31 @@
+# Opinion | Avoid the Coronavirus, Forget Winter Weather: Socialize Outside - The New York Times
+
+Tags: COVID
+
+![[08Burkeman-facebookJumbo.jpg]]
+
+![[Opinion%20Avoid%20the%20Coronavirus,%20Forget%20Winter%20Weath%206bfbb648512049cb9f16d5869580aafd 08Burkeman-articleLarge.jpg]]
+
+Hisashi Okawa
+
+Winter is on its way. Here in the New York area, where I live, and throughout the Northeast, we can expect a few perfect days of cold, clear air and snow that sparkles in the sun; but the season’s dominant notes will most likely be rain, overcast skies, bone-chilling winds, an Arctic storm or two and more rain. For all of us who have relied on outdoor socializing to maintain our sanity this year, cherishing our walks in the park and our socially distanced stoop conversations, the change in the weather feels like the final affront. The pandemic grinds on; democracy seems to teeter on a precipice — and now we won’t even be able to get outside, to breathe fresh air and see our friends and neighbors. Or will we?
+
+I don’t have any new solutions for the pandemic or for the politics, I’m afraid, but take it from someone who grew up in northern England: Terrible weather does *not* mean you don’t get to socialize outdoors.
+
+If a little thing like driving rain stopped British people from enjoying a day at the seaside or a hike in the hills, they wouldn’t only have to stay indoors all winter; they’d have to sit out half the summer, too. And I might never have known the joys of the Yorkshire barbecue, in which it was sometimes my appointed role to hold an umbrella over the grill while my father tended to the sausages and burgers — because a barbecue had been planned, damn it, and so a barbecue was going to take place. Nor would I have experienced the thrill of pitching a tent at night, high on a Lake District hillside, then waking the following morning to the breathtaking spectacle of — well, of some fog, to be honest. Still, at least it wasn’t raining! Or not enough to stop the portable gas stove from functioning, anyway.
+
+There’s a sardonic joy to be found in such moments, also visible in the faces of vacationers huddling under the awnings of ice cream parlors in tourist towns, or zipping their fleeces up to their necks, to better enjoy an afternoon’s sunbathing at Scarborough. Perhaps there’s even a kind of romance. (It took me a while, upon moving to America, to realize that a “rain date” was a tactic for avoiding getting wet, not an intimate rendezvous in the drizzle.) And then there’s the great secondary benefit of all bad-weather outdoor activities, entirely absent from the good-weather variety: After a bracing experience of wind or rain, you get to come inside, warm up, dry out, and get cozy with a hot drink that would have held far less appeal if you hadn’t been frozen or drenched to the skin moments earlier.
+
+The weather has long been a joking matter for Brits, but the underlying issue here is a serious one: In this period of heightened social isolation, it’s essential that we keep interacting in the physical world as much as we can, even if we must do it masked and socially distanced. The [psychological advantages of time spent in nature](https://www.nytimes.com/2019/04/18/opinion/sunday/oliver-sacks-gardens.html) are [well known](https://www.nytimes.com/2020/06/23/parenting/nature-health-benefits-coronavirus-outdoors.html), and plenty of research demonstrates that in-person interaction brings benefits the digital kind cannot. In one typical [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5527991/#_blank) of older Americans, published in 2015, participants with limited face-to-face contacts had nearly double the risk of depression; communicating by email or phone didn’t stave off such risks, and the benefits of face-to-face meetings persisted for years after.
+
+I realize that for many people, frailty or disability makes winter socializing genuinely difficult (and all of us, of course, should take care when it’s icy, or during thunderstorms). But at a time when it matters more than ever to keep the bonds of community strong, it would be tragic if those of us physically able to meet safely outdoors were to let the weather put us off, or prevent us from assisting or accompanying those who may be unable to go it alone. Getting outside will make us happier; we’ll be helping local businesses; and we’ll be resisting the urge to spend our spare time on the sofa, getting sucked into online vortexes of polarization and conspiracy — which, as the historian Timothy Snyder has written, is exactly where leaders with authoritarian leanings would rather we remained.
+
+- The election. And its impact on you.
+
+[Special offer: Subscribe for $1 a week.](https://www.nytimes.com/subscription?campaignId=7YUFJ)
+
+The big secret about bad weather is that, certain dangerous storm conditions aside, it’s really bad only if you decide it’s bad. You may know the experience of being caught unprepared in heavy rain, starting to hurry toward shelter, then finally surrendering to the reality that you’ll be getting a soaking — whereupon the soaking is suddenly fine, even fun. Much of the discomfort of rain or cold temperatures arises not from the sensations themselves, but from a kind of internal struggle to avoid feeling them. The key to British imperturbability lies in not expecting your time outdoors to be especially warm or dry in the first place.
+
+A friend I’ve known since high school has treasured memories of her parents setting out a sumptuous picnic spread just as the heavens opened, but deciding to let the kids go ahead and eat anyway, in a chaos of wet sandwiches and hysterical laughter. I don’t think it’s a coincidence that the picnic she remembers is the one the weather supposedly ruined. Whatever else this winter has in store, we might use it to create some similarly hilarious and affection-filled memories, remembering always the words popularly attributed to the British hillwalker, writer and cartographer Alfred Wainwright: “There’s no such thing as bad weather, only unsuitable clothing.”
+
+[Oliver Burkeman](https://www.oliverburkeman.com/) is a British journalist and the author of the forthcoming “Four Thousand Weeks: Time Management for Mortals.”

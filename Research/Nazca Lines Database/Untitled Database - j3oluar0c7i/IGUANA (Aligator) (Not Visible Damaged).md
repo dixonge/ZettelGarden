@@ -1,0 +1,7 @@
+# IGUANA (Aligator) (Not Visible/ Damaged)
+
+#: 19
+BEST ALTITUDE: N/A
+BEST DATE: N/A
+GOOGLE EARTH COORDINATES: 14 41’25.35″S 75 6’57.75″W
+TOWN: Nazca

@@ -1,0 +1,6 @@
+# SEAWEED – 1 Example of 5 (Sea Plant / Agae)
+
+#: 34
+BEST DATE: +/-1km
+GOOGLE EARTH COORDINATES: 2010
+TOWN: 14 41’24.13″S 75 7’21.71″W

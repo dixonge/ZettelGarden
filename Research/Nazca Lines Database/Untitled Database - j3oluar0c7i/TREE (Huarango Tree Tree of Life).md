@@ -1,0 +1,7 @@
+# TREE (Huarango Tree / Tree of Life)
+
+#: 45
+BEST ALTITUDE: +/-750m
+BEST DATE: 2010
+GOOGLE EARTH COORDINATES: 14 41’37.83″S 75 6’51.79″W
+TOWN: Nazca

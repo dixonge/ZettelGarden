@@ -1,0 +1,18 @@
+﻿Name|Date|Link|Location|Status|Files
+-|-|-|-|-|-|
+San Miguel de Allende|"Nov 4, 2019 → Nov 10, 2019"|https://www.airbnb.com/trips/v1/fde4c29e-62ea-421b-a398-37386bcb7f1b/ro/RESERVATION2_CHECKIN/HMAAB4J99W/g|https://goo.gl/maps/vg2DGahvq2MJxHr47|Paid,
+ETN to San Miguel|"Nov 4, 2019 9:00 AM-5:00 PM"|,,Paid|"November%20Trips%20964b3228f12c4613bd7fa081287ea048/ZAC-Leon-Boarding-Pass.pdf, November%20Trips%20964b3228f12c4613bd7fa081287ea048/Leon-SMA-Boarding-Pass.pdf"
+Tattoo consultation|"Nov 5, 2019"|,,,
+New tattoo!|"Nov 6, 2019"|,,,
+Sketching Things|"Nov 7, 2019 10:30 AM-1:00 PM"|https://www.notion.so/dixonwiki/Solovember-08813b04868e45e88b05a26bcd3fd935#60518ef3f70042f294942f05849e0563|https://goo.gl/maps/8nZ6zctF8ePnpavx6|Paid,
+Sketching Places|"Nov 8, 2019 10:30 AM-1:00 PM"|,https://goo.gl/maps/e2AR8xbDqki6bWkw6|Paid,
+Sketching People|"Nov 9, 2019 12:10 AM-1:00 PM"|,https://goo.gl/maps/BAZcHHCgcSfiGVoN7|Paid,
+Mexico City|"Nov 10, 2019 → Nov 17, 2019"|https://abnb.me/iq0aVn9KK0|"Enrique Rébsamen 543, Narvarte Poniente, 03020 Ciudad de México, CDMX, Mexico
+https://goo.gl/maps/gSHjQkahVt52sV9M8"|Paid,
+ETN to CDMX|"Nov 10, 2019"|,,Paid,
+Jazz night|"Nov 14, 2019 9:00 PM (CST)"|,,Paid|November%20Trips%20964b3228f12c4613bd7fa081287ea048/Jazz_Night_Tickets.pdf
+Vegan cooking class|"Nov 15, 2019 4:00 PM-7:30 PM"|,,Paid|November%20Trips%20964b3228f12c4613bd7fa081287ea048/Vegan_Cooking_Class_CDMX.pdf
+Oaxaca City|"Nov 17, 2019 → Nov 24, 2019"|https://www.airbnb.com/trips/v1/d73afe14-9599-44d0-ae9e-803352a45ae5|Centro?|Paid,
+Volaris to Oaxaca|"Nov 17, 2019"|,,Paid|November%20Trips%20964b3228f12c4613bd7fa081287ea048/MEX-OAX-BoardingPass.pdf
+Oaxaca > Zacatecas|"Nov 27, 2019"|,,Need to Buy,
+San Mateo de Rio Hondo|"Nov 24, 2019 → Nov 26, 2019"|,,|

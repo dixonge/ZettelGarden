@@ -1,0 +1,8 @@
+﻿Spec|Toshiba|Chuwi 12.3 Lapbook
+-|-|-|
+Weight|5.4 lb.|3.08 lb.
+Thickness|1.27 in.|0.3 in.
+Resolution|1366×768|2736×1824
+CPU|i3 Dual 2.5Ghz|Celeron Quad 1.1Ghz
+Battery|4000 mAh|8000 mAh
+Storage|750GB|64GB

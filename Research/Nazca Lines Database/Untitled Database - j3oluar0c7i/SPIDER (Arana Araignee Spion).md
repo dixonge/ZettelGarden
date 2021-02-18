@@ -1,0 +1,6 @@
+# SPIDER (Arana / Araignee / Spion)
+
+#: 36
+BEST DATE: +/-700m
+GOOGLE EARTH COORDINATES: 2010
+TOWN: 14 41’38.88″S 75 7’20.57″W

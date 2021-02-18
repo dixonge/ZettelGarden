@@ -1,0 +1,55 @@
+# The Long Linguistic Journey to ‘Dagnabbit’
+
+Tags: Etymology, Interesting
+
+![[The%20Long%20Linguistic%20Journey%20to%20%E2%80%98Dagnabbit%E2%80%99%20bb2b639299ac4ddfb7c835efce129c52 5ef371cc23027.jpg]]
+
+Welp. Photo Illustration: Aida Amer. Image: Public Domain.
+
+**Among the most hilarious words** in the English language is “dagnabbit.” It’s full of very funny hard syllables and, for most Americans, it’s most often heard coming out of the cartoon mouth of Yosemite Sam, who has a funny voice and a big hat (big hats are also funny).
+
+But the way the word evolved is not really funny. It is dark and ominous and paved with fear. “Dagnabbit,” along with the English words “bear” and “wolf,” are creations of a terrified populace, scared of beings visible and not.
+
+These words are called, among linguists, taboo deformations. They are words we created because, in a very fantasy-novel sort of way, we are scared of the True Names of our enemies and overlords. Dagnabbit is an example of the perceived power of words to hurt us.
+
+**It’s easy to assume that** language is, for all its variations and complexities, a shortcut, a way to convey meaning through sounds that represent concepts. But language itself has power. The word for a certain concept isn’t just a symbol; it is tied in some fundamental way to the concept itself. This pops up in humanity’s oldest stories: the idea is that each thing—person, god, object—has a true name, and that knowledge of that true name conveys power. There are stories about the true name of the Egyptian sun god Ra, of the Jewish monotheistic god, and later of various angels and demons and wizards in stories ranging from the Bible to, uh, the Earthsea fantasy novels written by Ursula K. Le Guin.
+
+In stories like those above, one’s true name is a carefully guarded secret, and if someone finds out your true name, you’re sort of screwed; that person will have all sorts of power over you. But delightfully, this concept translates to everyday, non-fantasy-novel life as well. Except we don’t always know it.
+
+The real-life version of this very fun idea is a bit different, partly because humans aren’t heroes on the scale of Odysseus or the Jewish god or Duny from *A Wizard of Earthsea*. Instead we are weak, fragile idiots who can’t really take advantage of the power of true names; instead, we’re terrified of them, and at risk of gruesome death if we use them.
+
+“Taboo deformation is one possible way for a word to change its meaning,” says Andrew Byrd, a professor of linguistics at the University of Kentucky who specializes in Indo-European languages. Basically, we are scared of the true names of certain beings or concepts, because to use them might mean we summon them, which we don’t want, or anger them, which we definitely don’t want, or simply make other humans mad at us, which is slightly less bad but still not ideal. The true name is powerful, and we normal humans can’t handle that power. So we avoid using the true name, but sometimes we still need to communicate with each other about those beings or concepts. That means we have to figure out a way to talk about something without using the actual word for it.
+
+A great example of this is the word “bear,” in English. “Bear” is not the true name of the bear. That name, which I am free to use because the only bear near where I live is the decidedly unthreatening American black bear, is *h₂ŕ̥tḱos*. Or at least it was in Proto-Indo-European, the hypothesized base language for languages including English, French, Hindi, and Russian. The bear, along with the wolf, was the scariest and most dangerous animal in the northern areas where Proto-Indo-European was spoken. “Because bears were so bad, you didn’t want to talk about them directly, so you referred to them in an oblique way,” says Byrd.
+
+*H₂ŕ̥tḱos*, which is pronounced with a lot of guttural noises, became the basis for a bunch of other words. “Arctic,” for example, which probably means something like “land of the bear.” Same with Arthur, a name probably constructed to snag some of the bear’s power. But in Germanic languages, the bear is called…bear. Or something similar. (In German, it’s *Bär*.) The predominant theory is that this name came from a simple description, meaning “the brown one.”
+
+In Slavic languages, the descriptions got even better: the Russian word for bear is *medved*, which means “honey eater.” These names weren’t done to be cute; they were created out of fear.
+
+It’s worth noting that not everyone was that scared of bears. Some languages allowed the true name of the bear to evolve in a normal fashion with minor changes; the Greek name was *arktos*, the Latin *ursos*. Still the true name. Today in French, it’s *ours*, and in Spanish it’s *oso*. The bear simply wasn’t that big of a threat in the warmer climes of Romance language speakers, so they didn’t bother being scared of its true name.
+
+Another example is the way Jews refuse to use the true name of God, which is made up of four Hebrew letters which roughly correspond to the Latin letters Y, H, V, and H. (Maybe. In Hebrew, the symbols that roughly correspond to Y and V can also be used as vowels.) Anyway, Jews traditionally do not speak this word, and when it’s written, there are specific rules about how to treat the paper it’s written on. Sometimes this has even been applied to translations; I was told in Hebrew school to write the word “God,” which is of Germanic origin and does not appear in any of the important Jewish holy books, as “G-d.” This was useful because nobody wanted to ritually bury our Mead Composition notebooks.
+
+But YHVH appears throughout holy books, and so to talk about God, Jews have come up with dozens of options. *Hashem* means, literally, “the name.” *Adonai* means “lord,” *Elohim* means…well, nobody’s quite sure about that one. Maybe “the power,” or “the divine,” something like that. With some taboo deformations, like “bear,” we’ve basically replaced the true name with something else; not many people know that it’s even a replacement. The Jewish name of God is written down, and so remains known, but in other cases, the deformation can take over.
+
+There are all kinds of things that we as humans are too scared of to use its real name. God, sure, always smiting people, very scary. Bears, same thing, although “smiting” may not be correct word for a bear attack. Some words, like ethnic slurs, are so repugnant that they can’t be used at all, or are restricted to in-group use.
+
+There’s also something called “mother-in-law languages,” which aren’t exactly languages. In some languages—east-central Ethiopian languages like Kambaata, Australian Aboriginal languages like Dyirbal—there’s a taboo stopping newlyweds from communicating directly with in-laws. That comes out in various ways; you might have to address requests to an inanimate object or animal (“dog, I sure would like it if the salt was passed to me”) or might have to avoid using even the basic sounds in your in-law’s name.
+
+Anyway, that’s one way a taboo deformation takes hold: just ignoring the true name and coming up with a description to refer indirectly to it. But that’s not what happened with dagnabbit.
+
+**A fundamental issue** with changing a true name is that you can’t completely change it. You can describe it, as with “bear,” but if you decided that instead of *h₂ŕ̥tḱos* you’d just call the bear, I don’t know, bing-bong, nobody would know what you meant, and the whole exercise would be pointless. So one very sneaky way to avoid using a true name is to just tweak it a bit.
+
+There are rules for how you can tweak a name. If you change it too much, nobody will know what you mean; if you don’t change it enough, people might assume you’re using the true name, which is what you’re trying to avoid in the first place.
+
+So to find the right balance, you can only change certain sounds for certain other sounds, in a strategy called *dissimilation*. Individual sounds that make up words are called *phonemes*, and they come in groups. There are the nasal phonemes, which are sounds that are made by releasing air through your nose, like “m” and “n.” The consonants “k” and “g,” and “b” and “p,” are pairs: they’re produced very, very similarly in the mouth. Vowels like “oh” and “oo” are similar, too; just minor adjustments to the position of your tongue. Try making those sounds right now. Almost identical, right?
+
+But if you just swap out one sound for a very similar other sound, that might be a little too close. In the case of a word like “fuck,” which we fear because it refers to sex and also because social pressure indicates it is a word we should not say very often, just changing the vowel sound from, say, “uh” to “ah,” which are similar sounds, might not really have the result we want. If you yell “fahk!” someone might just think you’re cursing but with an accent. So we alter the first “f” consonant very slightly, from “f” to “fr,” keep the final “k,” and change the vowel more significantly. That’s how we get “freak” and “frick,” which are similar enough to the original word that everyone knows what you mean, but different enough that nobody thinks you’re cursing. Another way would be to come up with words that sound really similar, but are words in their own right: that’s how Christians who want to avoid saying “Jesus Christ” end up with “cheese and rice.”
+
+The strategies get more in-depth than that, and we have to venture further to decode “dagnabbit,” which is, of course, a taboo deformation of the word “goddammit.” To do that, let’s break down “goddammit” into two parts: “god” and “dammit.”
+
+One strategy is called *metathesis*, which is pronounced with an emphasis on the second syllable, like “meh-TAGH-thuh-sis.” (“Agh” is the way I’m typing the vowel sound in “cat.”) Metathesis is a switch of sounds within a word. Pretty simple: instead of “god,” you’d say “dog.” Use some dissimilation for the vowel—change “ah” to “agh”—and you end up with “dag.” Excellent! Halfway done!
+
+“Nabbit” as a switch for “dammit” is more fun, because we get to use both dissimilation and metathesis. “M” and “n,” remember, are paired together, very similar sounds. So swap out one for another. “D” and “b” are also pairs: they’re called stops, which means that you halt the movement of air from your mouth. (That’s as opposed to a sound like “s,” which could theoretically go on for as long as you have air in your lungs. But you can’t make the “d” or “b” sounds without stopping air from flowing.)
+
+So using dissimilation, we get to “bannit.” Pretty good, but not great. What if we use metathesis to swap the position of our new consonants within that word? Ah ha! Nabbit. Put them together and we’ve figured out dagnabbit. This also gives us a key to making our own taboo deformations, if we want. For example! I am sick of winter. Winter should be a bad word. Please always refer to winter as “millder.” With any luck, by avoiding the Dark Season’s True Name, we can avoid summoning it back next year.

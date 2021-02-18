@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "055b6957e2e934e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "df64547af28d7d09",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vagabondians/Seven Months in a Pop-up Camper - 2011/A Bigger Tent -- on Wheels.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c54aba4662dc994d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0ae0e1300470b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338a0b55e307fddf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f285dee7124a3da0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Tags: ",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "33c03a4057b85207",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6e25a0cf239e678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70fd11f1213844c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vagabondians/Seven Months in a Pop-up Camper - 2011/A Bigger Tent -- on Wheels.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6670643f431a83e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Vagabondians/Seven Months in a Pop-up Camper - 2011/A Bigger Tent -- on Wheels.md",
+    "Zettelkasten/ADHD Time Management.md",
+    "Refer/Music/With 3 Movable Ukulele Chord Shapes, You Can Play .md",
+    "Zettelkasten/Rootless-Voicings.md",
+    "Zettelkasten/2-5-1 Chord Progression.md",
+    "Refer/Music.md",
+    "Refer/Music/Hotel California chords lyrics.md",
+    "Inbox/Productivity Journal/2021-02-18.md",
+    "Zettelkasten/The War of Spanish Succession.md",
+    "Zettelkasten/The Glorious Revolution.md"
+  ]
+}

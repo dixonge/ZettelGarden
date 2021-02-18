@@ -1,0 +1,1 @@
+# Search should cover all folders and be intuitive

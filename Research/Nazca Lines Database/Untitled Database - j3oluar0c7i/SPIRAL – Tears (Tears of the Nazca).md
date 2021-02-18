@@ -1,0 +1,6 @@
+# SPIRAL – Tears (Tears of the Nazca)
+
+#: 42
+BEST DATE: +/-850m
+GOOGLE EARTH COORDINATES: 2010
+TOWN: 14 50’19.48″S 74 55’2.99″W

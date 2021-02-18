@@ -1,0 +1,15 @@
+# Stark County IL Deaths
+
+Created: Aug 3, 2006 3:11 AM
+Tags: @Genealogy, Illinois, Stark County
+URL: http://freepages.genealogy.rootsweb.com/~wyomingillinois/archives/scdeaths.html
+Updated: Mar 15, 2017 12:14 PM
+
+An amazing obit - just as an example, no relation
+
+**Stark County news, Friday, 7 June 1901**
+
+**Mary Pauli -** Died at her home near Toulon, Illinois, June 3, 1901, Mrs. Mary Louise Elizabeth Pauli, aged 36 years, 2 months and 7 days.
+Another time in life's brief pilgrimage we are called upon to mourn the death of a loved one. Mary Caverly was born in Toulon, March 26, 1865 and near that place her life has been spent, a life developed into good and noble traits, spreading abroad an influence felt and admired by all.
+Her presence seemed to banish wrong from the heart, her words to edify and her smile to cheer. How truly it has been aid, "Death loves a shining mark". Scarcely can we realize that she who was with us but yesterday is gone from us forever. But he who is too wise to err or merciful to unjustly afflict, otherwise ordered, and humanity can but bow in humble submission and say, "Thy will be done." February 24, 1897, she was united in marriage to John D. Pauli. In sweet companionship they established themselves in a cozy home on a beautiful farm, near the home of her childhood, and a few brief years of happiness only too quickly flew by. All was done that by loving hands could do. Her grief-stricken husband anxiously watching by her bedside. He devoted parents never failing in their kindly ministrations, their only hoope that she might be spared a little longer. But such was not to be. She passed peacefully away, as in her early life she chose virtue's path with the Divine word for the light thereof and was ever a most faithful adherent to the truth. She leaves to mourn her loss a husband, an infant daughter, a father and mother and three brothers, Edward C., George A., and Frank J. The funeral services were conducted from St. Dominic's church at Wyoming. The services were very beautiful and impressive. Solemn high mass was offered by Reverend Father Parker, assisted by Father McCarron, of Bradford, and Father Hauser of Princeville. The singing by the choir was touching and beautiful.
+A large concourse of friends accompanied the remains to the cemetery whre her last resting place were made beautiful and soft as downy pillows and the remains were placed in a snowy white line tomb, mid fragrant blossoms and evergreens and her covering was garlands of flowers, strewed by tender hands. No sweeter, purer spirit ever found its way to the fields of Eden. The strong hand who has guided her thorugh earth's journey will conduct her safely "over the river" and comfort the lonely ones in the home she has left for the "mansions prepared beyond." E.J.M.

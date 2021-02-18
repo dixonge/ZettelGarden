@@ -1,0 +1,14 @@
+# George Dixon, Sr. - Will
+
+Created: Jan 18, 2021 5:47 AM
+Date(s): Feb 7, 1780
+Type: Will
+URL: http://homepages.rootsweb.com/~dansgen/wlgeodx1.htm
+
+Transcription:
+
+Will: George Dixon, Sr. 07-Feb-1780 Source: Microfilm, Copy of Will, Chatham County, NC Court House
+
+Be it remembered That I George Dixon of Chatham County in the State of North Carolina Yeoman being Sick & Weak of Body but in Sound and perfect mind and memory Thanks be to Almightly God therefor - and calling to mind the uncertainty of life for settling my outward affairs do make this present Writing my last Will and Testament hereby Revoking and making void all other Wills and Testaments by me heretofore made Either Vocally or in Writing Delivered and do Ratify and Confirm this present Writing. -- My Will is firstly that my Executors hereinafter named do pay and Discharge all my just Debts and funeral expenses Secondly I Give and Bequeth to my Sons Enoch Dixson & Caleb Dixson and Daughter Phebe Rubottom the sum of ten Shillings Sterling each. 3rdly I give & Bequeth to my Joshua Dixson one hundred and twenty Acres of Land being part of my land known by the name of my old place adjoyning Jesse Dixons Land -- the Division ____ Begin at Jesse Dixon line on the west side of Tick Creek thence South 195 perches to two Black Oaks thence West 110 Perches to Original SouthWest Corner thence North 147 Perches to a Glade(?) thence North Sixty three Degrees East on the Dividingline the place of Beginning to Contain one hundred and twenty Acres be the same more or Less as also that Eleven acres of Land now leased to Caleb Dixon when his lease expires. Likewise one Equal half part of my Implements of Husbandry and household furniture and all of my Horses & mares Branded 1D and all such of my Cattle Sheep & Swine as are marked Cross and Split in the near Ear and Swallowfork(?) and Nick in the off Ear - and I do hereby Impower my Executors to Convey the said Tracts of land to the said Joshua Dixson his heirs and assigns for Ever - 4thly I do give and Bequeth to my sons Caleb, George & Joshua and Son in law Thomas Rubottom all of my Weaving apparel to be equally divided among them 5thly I give and Bequeth to my son George Dixon all the Remainder and Remaining part of my Land, Stock, Household furniture Implements of Husbandry and Other Effects(?) Whatsoever the which in a have mentioned Bequethed Only Excepted. -- -- -- -- -- -- 6thly and Lastly I do Constitute my Son George Dixon and Justly friend William Greave to Execute this my last Will and Testament. In Witness hereof I have hereunto Set my hand and Seal this Seventh Day of February Anno Dom one thousand Seven hundred & eighty. Signed Sealed & Delivered by the Testatoras his last Will & Testament in the presence of hisSarah (her mark) Lambert George (G) DixonEdward Mallory X markJonth CoatesThe above Will Duly Executedin Open Court upon the Oath of Edward MalloryTest
+
+A Clark

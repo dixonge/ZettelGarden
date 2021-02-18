@@ -1,0 +1,23 @@
+# CBT for ADHD
+
+Created: Oct 9, 2020 10:16 AM
+Tags: ADHD, CBT
+
+Demoralizing thoughts and beliefs that keep individuals from doing what they want to do actually can’t stand up to the light of logic. As CBT reveals, these thought processes are distorted in certain characteristic ways:
+
+- **All-or-nothing thinking.** You view everything as entirely good or entirely bad: If you don’t do something perfectly, you’ve failed.
+- **Overgeneralization.** You see a single negative event as part of a pattern: For example, you *always* forget to pay your bills.
+- **Mind reading.** You think you know what people think about you or something you’ve done — and it’s bad.
+- **Fortune telling.** You predict that things will turn out badly.
+- **Magnification and minimization.** You exaggerate the significance of minor problems while trivializing your accomplishments.
+- **“Should” statements.** You focus on how things *should* be, leading to severe self-criticism as well as feelings of resentment toward others.
+- **Personalization.** You blame yourself for negative events and downplay the responsibility of others.
+- **Mental filtering.** You see only the negative aspects of any experience.
+- **Emotional reasoning.** You assume that your negative feelings reflect reality: Feeling bad about your job means “I’m doing badly and will probably get fired.”
+- **Comparative thinking.** You measure yourself against others and feel inferior, even though the comparison may be unrealistic.
+
+Learning to recognize these distorted thoughts helps you to replace them with realistic thinking.
+
+### Reference:
+
+[CBT for [[CBT for ADHD]]
