@@ -1,1 +1,0 @@
-# showAncestors of David I of Scotland

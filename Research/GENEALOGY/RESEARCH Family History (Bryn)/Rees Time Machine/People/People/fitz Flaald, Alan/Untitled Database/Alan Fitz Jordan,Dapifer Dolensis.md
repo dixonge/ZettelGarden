@@ -1,1 +1,0 @@
-# Alan Fitz Jordan,Dapifer Dolensis.
